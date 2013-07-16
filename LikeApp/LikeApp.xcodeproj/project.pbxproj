@@ -162,6 +162,8 @@
 		7B922BF21786CBE500B2AA98 /* KIFTestScenario+KUDLikeApp.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B922BF11786CBE500B2AA98 /* KIFTestScenario+KUDLikeApp.m */; };
 		7B922BF41786D31F00B2AA98 /* Integation Tests-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7B922BF31786D31F00B2AA98 /* Integation Tests-Info.plist */; };
 		7B92A8F7177A93CD00F0E31E /* KUDUtilLoadData.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B31EFC7176ABB3900DE9F52 /* KUDUtilLoadData.m */; };
+		7B958B301795024F008D2785 /* KUDCallAPI.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AE3A3E5178BC9C6004B76E2 /* KUDCallAPI.m */; };
+		7B958B321795025E008D2785 /* KUDParserData.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AE3A3E1178BC99C004B76E2 /* KUDParserData.m */; };
 		7B96C2171779480600349B6E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3AD7BAC4175C58A70088E99A /* UIKit.framework */; };
 		7B96C2181779480600349B6E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3AD7BAC6175C58A70088E99A /* Foundation.framework */; };
 		7B96C2191779480600349B6E /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3AD7BAC8175C58A70088E99A /* CoreGraphics.framework */; };
@@ -1129,6 +1131,8 @@
 				7B2333E1178AAF5D002066B7 /* CollapseClickCell.m in Sources */,
 				7B2333E5178AAF5D002066B7 /* KUDCollapseClick.m in Sources */,
 				7B2333E7178AAF5D002066B7 /* KUDCollapseClickArrow.m in Sources */,
+				7B958B301795024F008D2785 /* KUDCallAPI.m in Sources */,
+				7B958B321795025E008D2785 /* KUDParserData.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
