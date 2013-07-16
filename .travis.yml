@@ -1,6 +1,6 @@
-#  language: objective-c
-#  before_script: travis/before_script.sh
- # script: travis/script.sh
+  language: objective-c
+  before_script: travis/before_script.sh
+  script: travis/script.sh
 # language: objective-c
 #before_script:
  # - git --work-tree=/usr/local --git-dir=/usr/local/.git clean -fd
@@ -8,6 +8,6 @@
   #- which xctool || brew install xctool
 #script: make
 
-language: objective-c
-before_install: "git submodule init && git submodule update && sudo gem update --system && sudo gem install bundler && bundle install"
-script: "bundle exec rake test --trace"
+#language: objective-c
+#before_install: "git submodule init && git submodule update && sudo gem update --system && sudo gem install bundler && bundle install"
+#script: "bundle exec rake test --trace"
