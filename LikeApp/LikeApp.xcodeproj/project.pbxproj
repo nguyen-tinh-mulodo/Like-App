@@ -1321,6 +1321,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "LikeApp/LikeApp-Prefix.pch";
 				INFOPLIST_FILE = "LikeAppTests/LikeAppTests-Info.plist";
+				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LikeApp.app/LikeApp";
 				WRAPPER_EXTENSION = octest;
@@ -1338,6 +1339,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "LikeApp/LikeApp-Prefix.pch";
 				INFOPLIST_FILE = "LikeAppTests/LikeAppTests-Info.plist";
+				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LikeApp.app/LikeApp";
 				WRAPPER_EXTENSION = octest;
