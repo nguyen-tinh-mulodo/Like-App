@@ -188,9 +188,7 @@
 		7BADCFA11782D2D200CD8A79 /* MNMBottomPullToRefreshView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BF3CB8C17719A5900966162 /* MNMBottomPullToRefreshView.m */; };
 		7BBE17EE1776D6E800E51F8C /* Camera-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BBE17ED1776D6E800E51F8C /* Camera-icon.png */; };
 		7BF3CB9317719A5900966162 /* MNMBottomPullToRefreshManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BF3CB8A17719A5900966162 /* MNMBottomPullToRefreshManager.m */; };
-		7BF3CB9417719A5900966162 /* MNMBottomPullToRefreshManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BF3CB8A17719A5900966162 /* MNMBottomPullToRefreshManager.m */; };
 		7BF3CB9517719A5900966162 /* MNMBottomPullToRefreshView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BF3CB8C17719A5900966162 /* MNMBottomPullToRefreshView.m */; };
-		7BF3CB9617719A5900966162 /* MNMBottomPullToRefreshView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BF3CB8C17719A5900966162 /* MNMBottomPullToRefreshView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -1086,8 +1084,6 @@
 				7B31EFC9176ABB3900DE9F52 /* KUDUtilLoadData.m in Sources */,
 				7B31F7EF176AF23000DE9F52 /* KUDPhotoCell.m in Sources */,
 				7B31F7F3176B128C00DE9F52 /* KUDPhotoDetailOfMyPageViewController.m in Sources */,
-				7BF3CB9417719A5900966162 /* MNMBottomPullToRefreshManager.m in Sources */,
-				7BF3CB9617719A5900966162 /* MNMBottomPullToRefreshView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
