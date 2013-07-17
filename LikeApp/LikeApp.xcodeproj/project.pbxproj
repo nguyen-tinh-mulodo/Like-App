@@ -142,7 +142,6 @@
 		7B316744177C3EFB001312A1 /* KUDPhotoModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AE4F8ED176AB22800EB9EEF /* KUDPhotoModel.m */; };
 		7B316745177C3F97001312A1 /* KUDResponseModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AF0C5FD1761C6A500DE6366 /* KUDResponseModel.m */; };
 		7B31EFC4176AB59500DE9F52 /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B31EFC3176AB59500DE9F52 /* MBProgressHUD.m */; };
-		7B31EFC5176AB59500DE9F52 /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B31EFC3176AB59500DE9F52 /* MBProgressHUD.m */; };
 		7B31EFC8176ABB3900DE9F52 /* KUDUtilLoadData.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B31EFC7176ABB3900DE9F52 /* KUDUtilLoadData.m */; };
 		7B31EFC9176ABB3900DE9F52 /* KUDUtilLoadData.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B31EFC7176ABB3900DE9F52 /* KUDUtilLoadData.m */; };
 		7B31F7EE176AF23000DE9F52 /* KUDPhotoCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B31F7ED176AF23000DE9F52 /* KUDPhotoCell.m */; };
@@ -1084,7 +1083,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				3AD7BAF0175C58A80088E99A /* LikeAppTests.m in Sources */,
-				7B31EFC5176AB59500DE9F52 /* MBProgressHUD.m in Sources */,
 				7B31EFC9176ABB3900DE9F52 /* KUDUtilLoadData.m in Sources */,
 				7B31F7EF176AF23000DE9F52 /* KUDPhotoCell.m in Sources */,
 				7B31F7F3176B128C00DE9F52 /* KUDPhotoDetailOfMyPageViewController.m in Sources */,
